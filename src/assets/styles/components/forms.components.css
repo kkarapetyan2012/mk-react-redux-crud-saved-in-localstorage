@@ -1,0 +1,25 @@
+button {
+    padding: 12px;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin-left: 12px;
+}
+
+.add_btn {
+    padding: 12px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    color: gray;
+    min-width: 48px;
+    height: 48px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+}
+
+input + input {
+    margin-left: 12px;
+  }
